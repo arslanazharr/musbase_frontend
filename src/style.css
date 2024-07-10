@@ -8,3 +8,7 @@
 .card-bg {
   background-image: url("./assets/cardBg.svg");
 }
+
+.v-pulse {
+  background-color: rgb(255 138 76) !important;
+}
