@@ -1,5 +1,34 @@
-# Vue 3 + Vite
+## Table of Contents
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+1. Installation
+2. Usage
+3. Contact
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+
+   git clone https://github.com/arslanazharr/musbase_frontend
+
+2. Navigate into the project directory:
+
+   cd project/
+
+3. Install dependencies:
+
+   npm install
+
+## Usage
+
+Once you have installed the dependencies, you can run the project with:
+
+npm run dev
+
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- Email: arslanofcl@gmail.com
